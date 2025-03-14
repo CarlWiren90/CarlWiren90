@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CarlWiren90
+- 👋 Hi, I’m Carl!
 - 👀 I love building things in JavaScript/TypeScript, but also love climbing and music.
 - 🌱 Currently a Frontend developer student @ Folkuniversitet Göteborg
 - 💞️ I’m looking to collaborate on absolutely anything fun.
