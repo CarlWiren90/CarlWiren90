@@ -1,8 +1,12 @@
 - 👋 Hi, I’m Carl!
-- 👀 I love building things in JavaScript/TypeScript, but also love climbing and music.
-- 🌱 Currently a Frontend developer student @ Folkuniversitet Göteborg
+- 👀 I love building things in React & designing cool apps. I also enjoy climbing, music and cooking.
+- 🌱 Currently a Frontend developer student @ Folkuniversitet Göteborg.
 - 💞️ I’m looking to collaborate on absolutely anything fun.
-- 📫 How to reach me carlwiren90@gmail.com  
+
+- Current projects:
+  - www.canmydoghave.com (Built with React and Tailwind and provides information on different foods for dogowners.)
+  - Active contributor to the open-source project www.klimatkollen.se
+- 📫 How to reach me carlwiren90@gmail.com!  
 - 😄 Pronouns: He/Him
 
 
