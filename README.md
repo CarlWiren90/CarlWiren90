@@ -3,11 +3,8 @@
 - 🌱 Currently a Frontend developer student @ Folkuniversitet Göteborg.
 - 💞️ I’m looking to collaborate on absolutely anything fun.
 
-  
 
-
-
-## Current projects:
+### Current projects:
   - www.canmydoghave.com (Built with React and Tailwind and provides information on different foods for dogowners.)
   - Active contributor to the open-source project www.klimatkollen.se
 - 📫 How to reach me carlwiren90@gmail.com!  
