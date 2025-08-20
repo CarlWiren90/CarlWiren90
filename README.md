@@ -8,7 +8,7 @@
 
 ### Current projects:
   - Frontend developer intern and active contributor to the open-source project www.klimatkollen.se
-  - www.canmydoghave.com (Built with React and Tailwind and provides information on different foods for dogowners.)
+  - (Mobile) www.canmydoghave.com (Built with React and Tailwind and provides information on different foods for dogowners.)
 
 
 
