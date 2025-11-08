@@ -20,13 +20,8 @@
 
 ## 🚀 Projects
 
-1. **Klimatkollen** - Currently developing the frontend on Klimatkollen (eng, Climate Checker). Klimatkollen is an open-source citizen platform that helps individuals, businesses and organisations track the climate transition by using Al to collect, analyse and spread key climate data. [[See repo]](https://github.com/Klimatbyran/frontend)
+1. **Klimatkollen** - Currently spending most of my time developing the frontend on Klimatkollen (eng, Climate Checker). Klimatkollen is an open-source citizen platform that helps individuals, businesses and organisations track the climate transition by using Al to collect, analyse and spread key climate data. [[See repo]](https://github.com/Klimatbyran/frontend)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlwiren90&theme=default&show_icons=true&hide_border=true&count_private=true)
 ---
 
 ## 🌟 Other stuff I like
