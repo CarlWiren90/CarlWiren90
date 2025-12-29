@@ -2,7 +2,7 @@
 
 💻 Frontend Developer | Self-proclaimed GIF-master<br>
 📍 Working out of Malmö, Sweden<br>
-🌱 Right now I'm learning Kotlin & Android development!<br>
+🌱 Right now I'm working on an secondhand fashion app in React Native!<br>
 📫 Contact: [LinkedIn](https://www.linkedin.com/in/carl-wir%C3%A9n-36990b330/)
 
 ---
