@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Work & Projects
 
 1. **Klimatkollen** - Currently a Frontend Developer at Klimatkollen (eng, Climate Checker). Klimatkollen is an open-source citizen platform that helps individuals, businesses and organisations track the climate transition by using Al to collect, analyse and spread key climate data. [[See repo]](https://github.com/Klimatbyran/frontend)
 
